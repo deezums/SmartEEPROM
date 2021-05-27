@@ -1,0 +1,25 @@
+#######################################
+# Syntax Coloring Map For SmartEEPROM
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+SmartEEPROM	KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+init	KEYWORD2
+read	KEYWORD2
+write	KEYWORD2
+update	KEYWORD2
+isBusy	KEYWORD2
+length	KEYWORD2
+
+#######################################
+# Constants (LITERAL1)
+#######################################
+ 
